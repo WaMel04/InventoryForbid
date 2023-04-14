@@ -1,0 +1,15 @@
+name: InventoryForbid
+version: '${version}'
+main: com.wamel.inventoryforbid.InventoryForbid
+api-version: 1.19
+
+depend:
+  - ProtocolLib
+
+commands:
+  forbid:
+    description: "인벤토리 금지 플러그인"
+  b:
+    description: "인벤토리 금지 플러그인"
+  blist:
+    description: "인벤토리 금지 플러그인"
